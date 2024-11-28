@@ -26,7 +26,6 @@ The dataset used contains tumor-related features such as:
 - Tumor radius, texture, perimeter, and other measurable properties.
 - Diagnosis labels: `B` (Benign) and `M` (Malignant).
 
-> Note: For privacy reasons, the dataset itself is not included in this repository. Please ensure you have the appropriate dataset before running the code.
 
 ## How to Run
 
@@ -61,17 +60,8 @@ The dataset used contains tumor-related features such as:
 
 ## Author
 
-- **Your Name**
-- [GitHub Profile](https://github.com/yourusername)
-- [LinkedIn Profile](https://linkedin.com/in/yourusername)
+- **Patricio Moore**
+- [GitHub Profile](https://github.com/patymoore)
+- [LinkedIn Profile](https://www.linkedin.com/in/patricio-moore-bb3b2b121/)
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Special thanks to the creators of the dataset and the libraries used in this analysis, including:
-- **Scikit-learn** for machine learning algorithms.
-- **Seaborn** and **Matplotlib** for visualizations.
-- **Pandas** for data manipulation.
